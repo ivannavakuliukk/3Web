@@ -105,11 +105,11 @@ body {
   margin-left: 279px;
 }
 
-.count {
+.go_back {
   border-bottom: 1px solid #D6AB7E;
 }
 
-.count__container {
+.go_back__container {
   height: 58px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -119,11 +119,12 @@ body {
           align-items: center;
 }
 
-.count__content {
+.go_back__content a {
   font-family: 'Raleway';
   font-weight: 400;
-  font-size: 23px;
-  margin-left: 240px;
+  font-size: 20px;
+  color: black;
+  margin-right: 220px;
 }
 
 .catalogue {

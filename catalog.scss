@@ -92,7 +92,7 @@ body{
   }
 
 }
-.count{
+.go_back{
   border-bottom: 1px solid #D6AB7E;
   &__container{
     height: 58px;
@@ -100,10 +100,13 @@ body{
     align-items: center
   }
   &__content{
-    font-family: 'Raleway';
-    font-weight: 400;
-    font-size: 23px;
-    margin-left: 240px;
+    a{
+      font-family: 'Raleway';
+      font-weight: 400;
+      font-size: 20px;
+      color:black;
+      margin-right: 220px;
+    }
     }
 }
 
